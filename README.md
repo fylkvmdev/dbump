@@ -1,4 +1,3 @@
-# Attention: At May 24, 2020 we have made the decision to shutdown the dbump bot. All the websites have been cancelled. If you had an active premium plan, it has been refunded. The bot has been removed from all 120 guilds safely. Thank you for using. All source code has been deleted too from this repository. If you're a developer and you want it, let me know. 
 # Welcome to dbump!
 dbump is a easy to use, simple, and safe Discord Bumping bot!
 
