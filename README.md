@@ -23,4 +23,7 @@ Firstly, we're sorry you came to the decision to remove dbump from your server. 
 # I want to apply for staff!
 Thank you for your decision to apply for staff. You can apply for bot staff at https://staff.dbump.org and server staff at https://staff.server.dbump.org. 
 
+# I want to contribute!
+Thank you! Pull requests are always open for contributions. If you want to selfhost the bot, go right ahead, but please respect the MIT License. We have the right to suspend your code or issue a DMCA takedown request if you do not follow the license.
+
 # Enjoy the bot!
