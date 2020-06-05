@@ -16,4 +16,4 @@ Firstly, we're sorry you came to the decision to remove dbump from your server. 
 # I want to apply for staff!
 Thank you for your decision to apply for staff. You can apply for bot staff at https://staff.dbump.org and server staff at https://staff.server.dbump.org. 
 
-# Enjoy the bot.
+# Enjoy the bot!
