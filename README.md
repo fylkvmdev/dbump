@@ -12,7 +12,7 @@ To selfhost:
 - Run npm install
 - Run node . and let it make the rest of the files.
 - Run node . again and you should be good to go.
-NOTE: Make a config.json file and put in the required values.
+### NOTE: Make a config.json file and put in the required values.
 
 # What does Premium do?
 Premium is a way to donate to the developers of dbump so you can get front page of dbump, front support, decreased bumping timers, and more! To donate, go to https://dbump.org/buy
