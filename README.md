@@ -5,15 +5,13 @@ dbump is a easy to use, simple, and safe Discord Bumping bot!
 Using is easy. Invite the bot to your server using https://dbump.org/server/add and do "$setup". This will initialize your server to be setup with dbump. After you are done, type "$bump" and your server will be bumped to https://dbump.org/server
 
 # How do I selfhost?
-Fortunately, with the newest release of dbump, we are now possible to selfhost!
+Fortunately, with the newest release of dbump, we are now possible to selfhost! Please note you're on your own doing this. You will get no support and any issues about self hosting will be closed. If you do selfhost, please respect the LICENSE.
 To selfhost:
-- Git clone the repository
-- Run npm i -g windows-build-tools (Not required on Linux-based Operating Systems)
-- Run npm install
-- Run node . and let it make the rest of the files.
-- Run node . again and you should be good to go.
-### NOTE: Make a config.json file and put in the required values.
-
+- Git clone the repository.
+- cd to the repository and npm i.
+- Once npm i has finished, run node dbump.js. It will guide you though inserting your tokens and API keys.
+- Once finished, you are done! Enjoy the clone.
+### Note: If you do not respect the license, we have the right to DMCA your bot or suspend your version of the bot. For further questions, email me at creators@uni2004.info
 # What does Premium do?
 Premium is a way to donate to the developers of dbump so you can get front page of dbump, front support, decreased bumping timers, and more! To donate, go to https://dbump.org/buy
 
