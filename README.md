@@ -11,7 +11,7 @@ To selfhost:
 - cd to the repository and npm i.
 - Once npm i has finished, run node dbump.js. It will guide you though inserting your tokens and API keys.
 - Once finished, you are done! Enjoy the clone.
-### Note: If you do not respect the license, we have the right to DMCA your bot or suspend your version of the bot. For further questions, email me at creators@uni2004.info
+### Note: If you do not respect the license, we have the right to DMCA your bot or suspend your version of the bot. For further questions, email me at admins@uni2004.info
 # What does Premium do?
 Premium is a way to donate to the developers of dbump so you can get front page of dbump, front support, decreased bumping timers, and more! To donate, go to https://dbump.org/buy
 
