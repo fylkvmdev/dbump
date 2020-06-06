@@ -29,3 +29,4 @@ Thank you! Pull requests are always open for contributions. If you want to selfh
 - uni2004 - Main creator, backend and website
 - 7up - Mail manager and host
 - Spex - Main manager of the bot and website, frontend developer
+- Special - Main backend developer
