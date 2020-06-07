@@ -3,7 +3,7 @@
 dbump is a easy to use, simple, and safe Discord Bumping bot!
 
 # How do I use?
-Using is easy. Invite the bot to your server using https://dbump.org/server/add and do "$setup". This will initialize your server to be setup with dbump. After you are done, type "$bump" and your server will be bumped to https://dbump.org/server
+Using is easy. Invite the bot to your server using https://dbump.org/server/add and do "$setup". This will initialize your server to be setup with dbump. After you are done, type "$bump" and your server will be bumped to https://dbump.org/servers
 
 # How do I selfhost?
 Fortunately, with the newest release of dbump, we are now possible to selfhost! Please note you're on your own doing this. You will get no support and any issues about self hosting will be closed. If you do selfhost, please respect the LICENSE.
