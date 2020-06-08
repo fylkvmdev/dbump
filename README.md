@@ -30,4 +30,3 @@ Thank you! Pull requests are always open for contributions. If you want to selfh
 - 7up - Mail manager and host
 - Spex - Main manager of the bot and website, frontend developer
 - Special - Main backend developer
-- Wave8 - the guy that always pings me asking to change rategirl percentages
