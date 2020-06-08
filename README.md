@@ -1,4 +1,3 @@
-# Attention: The public version of the bot has been closed. You need to selfhost it in order to use it. Make sure you use a domain if you want to get full functionality.
 # Welcome to dbump!
 dbump is a easy to use, simple, and safe Discord Bumping bot!
 
