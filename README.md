@@ -30,3 +30,4 @@ Thank you! Pull requests are always open for contributions. If you want to selfh
 - 7up - Mail manager and host
 - Spex - Main manager of the bot and website, frontend developer
 - Special - Main backend developer
+- admrus - Website and API developer, legal stuff
