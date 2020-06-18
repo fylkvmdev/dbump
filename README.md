@@ -24,7 +24,7 @@ Thank you for your decision to apply for staff. You can apply for bot staff at h
 # I want to contribute!
 Thank you! Pull requests are always open for contributions. If you want to selfhost the bot, go right ahead, but please respect the MIT License. We have the right to suspend your code or issue a DMCA takedown request if you do not follow the license.
 
-# Enjoy the bot
+# Enjoy the bot!
 ### Thank you to our contributors for helping with the bot.
 - uni2004 - Main creator, backend and website
 - 7up - Mail manager and host
