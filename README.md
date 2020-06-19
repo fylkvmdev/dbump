@@ -1,4 +1,4 @@
-# Welcome to dbup!
+# Welcome to dbump!
 dbump is a easy to use, simple, and safe Discord Bumping bot!
 
 # How do I use?
