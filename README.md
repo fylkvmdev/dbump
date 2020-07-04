@@ -21,7 +21,7 @@ To get the bot running with a custom instance:
 - Start the .js file using Node then navigate to localhost:0333 to start setting up the custom instance and administrating it
 - Invite it to your server
 - Finished!
-## LEGAL REMINDER! You're free to do this for non-commerical use as long as you leave the credit in the $help command. However, if you do not respect the license, we have the right to suspend your version of the bot or submit a DMCA takedown request. If you think you should be exempt from this, contact me on discord: ambience#9775
+### LEGAL REMINDER! You're free to do this for non-commerical use as long as you leave the credit in the $help command. However, if you do not respect the license, we have the right to suspend your version of the bot or submit a DMCA takedown request. If you think you should be exempt from this, contact me on discord: ambience#9775
 ## Please note however that you'll need a custom domain to get the full experience. If you set yourself as an admin on your bot, you will automatically have premium status.
 # What does Premium do?
 Premium is a way to donate to the developers of dbump so you can get front page of dbump, front support, decreased bumping timers, and more! To donate, go to https://dbump.org/buy
