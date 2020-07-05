@@ -43,3 +43,4 @@ Thank you! Pull requests are always open for contributions. If you want to selfh
 - Special - Main backend developer
 - admrus - Website and API developer, legal stuff
 - Wave8 - Bot admin, he just doesn't have it
+# - message to imposed: yes it's still uploading :omegalul:
