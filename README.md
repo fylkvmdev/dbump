@@ -19,5 +19,10 @@
 # I no longer want the bot in my server.
 ## We're sorry you no longer want our bot. However, in order to remove it, you shouldn't recommend it as it won't undo stuff like webhooks, channels or anything. If you want to do this quickly, do "$leave" to make the bot undo all changes it made to your guild, and then you can kick the bot. If you have an active premium license, do "$leave" then contact us at payments@dbump.org to refund your licenses.
 
+## Before I end this off, I want to give a special thanks to the people that made this project possible.
+## Spex - Main developer and backend
+## Special - Manager
+## Wave8 - Bot Admin
+
 # Thank you for using dbump!
 ### Last edited: July 10, 2020 @ 3:45 PM EST.
